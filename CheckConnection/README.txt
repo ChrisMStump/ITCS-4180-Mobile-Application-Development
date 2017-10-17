@@ -1,0 +1,1 @@
+Code for Android Application that displays a toast that determines if you are connected to the internet.
